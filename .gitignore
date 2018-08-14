@@ -3,3 +3,4 @@ release/*
 resources/*
 tile-generator-env/*
 .DS_Store
+proxy-bosh-release/src/*
