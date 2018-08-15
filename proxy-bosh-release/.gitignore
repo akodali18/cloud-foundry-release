@@ -3,3 +3,4 @@ blobs/*.tgz
 blobs/*.gz
 dev_releases/*
 .dev_builds/*
+.final_builds/*
